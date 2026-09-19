@@ -1,0 +1,5 @@
+DirectoryIndex disabled
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ http://localhost:8181%{REQUEST_URI} [P,L]
+
