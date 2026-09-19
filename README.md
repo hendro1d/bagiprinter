@@ -1,3 +1,5 @@
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/376e811f-e72c-4245-9240-99d3cf54b069" />
+
 # BagiPrinter
 
 BagiPrinter adalah sebuah aplikasi berbasis web lokal (Plug-and-Play) yang memungkinkan Anda untuk berbagi printer (seperti Canon G1010) dengan komputer dan perangkat genggam lain yang berada dalam satu jaringan WiFi.
